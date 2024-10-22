@@ -21,6 +21,7 @@ The **2024 Summer Olympics**, officially the Games of the **XXXIII Olympiad** an
 The **‘Paris 2024 Olympic Summer Games’** dataset has been collected from Kaggle, which provides comprehensive information about the Summer Olympics held in 2024. The datasets cover various key aspects of the Paris Olympic event such as participating countries, athletes, sports disciplines, medals and schedules (Kaggle, 2024). Additionally, historical data on previously held Olympics has also been included within this study to show the historical trends of the Olympics.
 
 ## DAX Measure and Calculated Columns
+![DAX Function](https://github.com/user-attachments/assets/dabc8f1d-2988-41d4-a03e-86612894b7af)
 
 ## Slicers and Filters
 1. Country (Overview, Athlete, Historical)
@@ -29,13 +30,16 @@ The **‘Paris 2024 Olympic Summer Games’** dataset has been collected from Ka
 
 ## View of the Dashboard
 **Home Page**
+![Home Page](https://github.com/user-attachments/assets/ff9ee0bf-ab2f-4421-868f-e5e382ccb7f9)
 
 **Overview**
+![Athlete Page](https://github.com/user-attachments/assets/0afb0819-e02f-4a36-8209-a186e90138cd)
 
 **Athlete**
+![Athlete Page](https://github.com/user-attachments/assets/0afb0819-e02f-4a36-8209-a186e90138cd)
 
 **Historical**
-
+![Historical Page](https://github.com/user-attachments/assets/d3088b4f-3fb9-438c-9aed-fe11b2075769)
 
 ## Insights
 
