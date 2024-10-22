@@ -33,7 +33,7 @@ The **‘Paris 2024 Olympic Summer Games’** dataset has been collected from Ka
 ![Home Page](https://github.com/user-attachments/assets/ff9ee0bf-ab2f-4421-868f-e5e382ccb7f9)
 
 **Overview**
-![Athlete Page](https://github.com/user-attachments/assets/0afb0819-e02f-4a36-8209-a186e90138cd)
+![Overview page](https://github.com/user-attachments/assets/b4ddac47-f170-4d2d-9177-0f5859e1d002)
 
 **Athlete**
 ![Athlete Page](https://github.com/user-attachments/assets/0afb0819-e02f-4a36-8209-a186e90138cd)
